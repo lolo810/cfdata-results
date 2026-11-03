@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T12:50:08Z",
-  "count": 10,
+  "updated_at": "2026-11-03T13:11:49Z",
+  "count": 23,
   "engine": "CFData-WEB v1.8.5",
   "schedule_timezone": "Asia/Shanghai",
   "schedule_hours": [
@@ -10,5 +10,6 @@
     18
   ],
   "min_speed_MBps": 1.0,
-  "max_latency_ms": 500
+  "max_latency_ms": 500,
+  "node_name": "\u71d5\u4eac"
 }
