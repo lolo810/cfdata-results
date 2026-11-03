@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026-11-03T12:50:08Z",
+  "count": 10,
+  "engine": "CFData-WEB v1.8.5",
+  "schedule_timezone": "Asia/Shanghai",
+  "schedule_hours": [
+    0,
+    6,
+    12,
+    18
+  ],
+  "min_speed_MBps": 1.0,
+  "max_latency_ms": 500
+}
